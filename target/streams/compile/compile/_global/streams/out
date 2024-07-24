@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E134] Type Error: /Users/cw-takumi.mori/apps/atcoder-scala/src/main/scala/Main.scala:5:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m  println(h,w)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m  ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mNone of the overloaded alternatives of [33mmethod[0m [35mprintln[0m in [33mobject[0m [35mPredef[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m (x: Any): Unit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m (): Unit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mmatch arguments ((h : Int), (w : Int))[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
